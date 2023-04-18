@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:52:20	0/0	---MC-	301	error ('Moved%20Permanently')	text/html	date:Tue,%2018%20Apr%202023%2006:22:19%20GMT	http://kimaye.com/robots.txt		(from )
+11:52:21	0/0	---MC-	301	error ('Moved%20Permanently')	text/html	date:Tue,%2018%20Apr%202023%2006:22:20%20GMT	http://kimaye.com/	kimaye.com/index.html	(from )
